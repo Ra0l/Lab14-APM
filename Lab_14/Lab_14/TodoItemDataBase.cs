@@ -4,6 +4,8 @@ using System.Text;
 using SQLite;
 using System.Threading.Tasks;
 
+//Realizando cambios en el TodoItem
+
 namespace Lab_14
 {
     public class TodoItemDataBase
